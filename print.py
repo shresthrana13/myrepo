@@ -1,3 +1,4 @@
 print('''hello world
       my name is Shresth Rana
-      i am looking for a job''')
+      i am looking for a job
+      i will do my best to do soo''')
